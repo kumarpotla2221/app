@@ -1,0 +1,6 @@
+{
+  "name": "CareConnect Caregiver Mobile App",
+  "description": "Professional mobile field application for CareConnect home healthcare caregivers and attendants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
